@@ -17,8 +17,8 @@
 ## 安装与运行
 
 1. 克隆仓库
-   git clone https://github.com/你的用户名/健康管理小助手.git
-   cd 健康管理小助手
+   git clone https://github.com/xtt-lzt/health-assistant.git
+   cd health-assistant
 
 2. 安装依赖
    pip install -r requirements.txt
