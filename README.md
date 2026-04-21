@@ -18,16 +18,17 @@
 
 1. 克隆仓库
    git clone https://github.com/xtt-lzt/health-assistant.git
+   
    cd health-assistant
 
-2. 安装依赖
+3. 安装依赖
    pip install -r requirements.txt
 
-3. 配置 API Key
+4. 配置 API Key
    在config.py中填入你的 API Key。
    示例API Key 获取地址：https://console.volcengine.com/ark/region:ark+cn-beijing/apiKey
 
-4. 运行程序
+5. 运行程序
    python main.py
 
 首次运行会在当前目录自动创建 data 文件夹，用于存储你的个人数据。
